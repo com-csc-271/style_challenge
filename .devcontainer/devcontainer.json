@@ -1,0 +1,10 @@
+{
+    "name": "Style Challenge",
+    "extensions": [
+      "esbenp.prettier-vscode",
+      "ms-vsliveshare.vsliveshare",
+      "ms-vscode.live-preview"
+    ],
+    "postCreateCommand": "npm install"
+  }
+  
